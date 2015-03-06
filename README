@@ -1,0 +1,6 @@
+# 创建命令
+mkdir test
+cd test
+ git init 初始化仓库
+ touch readme  档说明 
+
